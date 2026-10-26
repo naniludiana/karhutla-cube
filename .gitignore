@@ -1,0 +1,15 @@
+# TouchDesigner autosaves / backups
+*.[0-9]*.toe
+Backup/
+# large plugin, download it from the MediaPipe for TouchDesigner release
+toxes/
+# local stuff
+recordings/
+scripts/
+td_scripts/
+.DS_Store
+# unused model experiments
+models/orangutan_*
+models/forest_obj/
+models/forest.glb
+models/forest_shape.obj
