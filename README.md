@@ -1,4 +1,4 @@
-# karhutla-cube 🇮🇩🔥
+# karhutla-cube 🇮🇩
 
 A hand-tracked 3D story about Indonesia's forest fires (*karhutla*), built with computer vision, Python and TouchDesigner.
 
